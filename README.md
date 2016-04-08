@@ -3,7 +3,7 @@ Annotation App for Sandstorm
 
 # Using
 
-Annotate is a Sandstorm app. It's not yet on the app store. I'll provide a package for download soon.
+Annotate is a Sandstorm app that's available on the App Market. You can try it [here](https://apps.sandstorm.io/app/c6zfftftrra9d4pdyuc1psew65ukqrjujvk20fac4zke1uasxv10).
 
 # Development
 
